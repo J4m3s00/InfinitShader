@@ -33,8 +33,5 @@
 
 ./vs/
 
-.sln
-.vcxproj*
-
-InfinitShader/bin/
-InfinitShader/obj/
+*.sln
+*.vcxproj*
